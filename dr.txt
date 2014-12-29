@@ -1,0 +1,88 @@
+ex06
+
+10/20
+
+README.md
+tres bien
+
+-4
+utiliser le dossier lib  (voir mes exemples)
+
+6.1
+-1
+se il vous plaît afficher des mots
+
+6.2
+-1
+quels sont les dates?
+
+6.3
+-1
+quels sont les chiffres?
+
+6.4
+-1
+se il vous plaît afficher la liste d'entrée
+
+6.5
+-1
+Prepare two lists, one with the names of players and their CLUBS,
+-1
+se il vous plaît utiliser List et non Map
+
+---
+
+?/20
+
+README.md
+tres bien
+
+SVPL utilisez le dossier lib  (voir mes exemples)
+
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+Question 1
+----------
+true
+true
+false
+false
+true
+
+afficher le mot: est un polyndrom
+...
+
+Question 2
+----------
+1680
+ajouter une explication
+
+Question 3
+----------
+A
+B
+E
+D
+C
+E
+95: A
+...
+
+Question 4
+----------
+[Jim, John, Eric, Terry]
+[Jean-François, Marc-André, Jean-Philippe, Frédérick]
+[Caroline, Emmanuel, Napoleon, Nathalie]
+afficher la liste d'entrée
+
+Question 5
+----------
+[Canadiens de Montréal, Carrey Price, P.k Subban, Canucks de Vancouver, Daniel Sedin, Henrik Sedin, Islanders de New York, John Tavares, Penguin de Pittsburg, Evgeni Malkin, Sydney Crosby, Red wings de Detroit, Henrik Zetterberg, Pavel Datsyuk, Stars de Dallas, Jamie Benn, Tyler Seguin]
+
+Prepare two lists, one with the names of players and their clubs, and the other with the names of clubs. Make the third list with clubs ordered by their names, where each club is followed by its list of players.
+TWO LISTS: PLAYERS AND THEIR CLUBS, CLUBS
+
+
+
+
+
